@@ -1,0 +1,19 @@
+{
+  "name": "registro_usuarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "julian mazo",
+  "license": "ISC",
+  "description": "esta es la api de registro usuarios",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {}
+}
